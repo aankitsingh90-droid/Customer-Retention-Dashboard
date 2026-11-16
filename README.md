@@ -1,4 +1,8 @@
 # Customer-Retention-Dashboard
+<img width="593" height="329" alt="image" src="https://github.com/user-attachments/assets/34c40642-0378-4753-a19d-862155d7b6d7" />
+
+<img width="593" height="329" alt="image" src="https://github.com/user-attachments/assets/6fe14966-f32f-469f-8356-244bdc72083a" />
+
 **Overview**
 RFM Analysis on customer ordering data to analyse revenue from potential customers to plan a customer retention statergy.
 
